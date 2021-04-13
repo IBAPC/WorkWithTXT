@@ -1,0 +1,6 @@
+C:\РПМ\Лабораторная №2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\РПМ\Лабораторная №2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\РПМ\Лабораторная №2\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\РПМ\Лабораторная №2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\РПМ\Лабораторная №2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\РПМ\Лабораторная №2\ClassLibrary\obj\Debug\ClassLibrary.pdb
